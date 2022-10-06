@@ -1,0 +1,13 @@
+git init
+
+git status 
+
+git add 
+
+gti commit -m "learning"
+
+git restore <filename>
+
+git log
+
+git rebase
